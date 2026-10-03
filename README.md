@@ -76,7 +76,14 @@ Spence is designed to take the chaos out of managing daily finances, bank accoun
 
 | Overview & Balance | EMI & Loans | Cards & Accounts | Reports & Analytics |
 | :---: | :---: | :---: | :---: |
-| ![Overview](screenshots/overview.png) | ![EMIs](screenshots/emis.png) | ![Cards](screenshots/cards.png) | ![Reports](screenshots/reports.png) |
+<img width="500 height="1111" alt="1000717673" src="https://github.com/user-attachments/assets/fdea6990-70a2-4629-bfad-6c4a0d8d5125" />
+<img width="500" height="1111" alt="1000717672" src="https://github.com/user-attachments/assets/b3d0bb45-2ae1-4014-b613-328bde00fd8c" />
+<img width="500" height="1111" alt="1000717678" src="https://github.com/user-attachments/assets/48ab9281-415b-42c2-9345-3f6a655b57e7" />
+<img width="500" height="1111" alt="1000717677" src="https://github.com/user-attachments/assets/933d478a-a646-4828-b6d7-7f861bd4b82d" />
+<img width="500" height="1111" alt="1000717676" src="https://github.com/user-attachments/assets/fbeab08d-c189-42e9-9971-0ba14079789b" />
+<img width="500" height="1111" alt="1000717675" src="https://github.com/user-attachments/assets/95b9a422-bbcf-4b50-a01b-c10f6420cbcb" />
+<img width="500" height="1111" alt="1000717674" src="https://github.com/user-attachments/assets/4c8e01d0-916e-4967-bcbb-91ba53aef40f" />
+
 
 ---
 
