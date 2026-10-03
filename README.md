@@ -1,8 +1,9 @@
-<img width="200" height="200" alt="ChatGPT Image Oct 3, 2026, 12_03_28 PM" src="https://github.com/user-attachments/assets/be440c70-4e8d-4446-90b1-dbf175457419" />
+<div align="center"><img width="200" height="200" alt="ChatGPT Image Oct 3, 2026, 12_03_28 PM" src="https://github.com/user-attachments/assets/be440c70-4e8d-4446-90b1-dbf175457419" />
 
-Spence
+  <h1> Spence </h1>
 
-**Smart Expense & Credit Card Manager**
+ <p><b>**Smart Expense & Credit Card Manager** </b></p>
+ </div>
 
 A privacy-first, powerful personal finance and expense tracking companion for Android.
 
