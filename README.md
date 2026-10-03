@@ -126,7 +126,9 @@ Spence is designed to take the chaos out of managing daily finances, bank accoun
 - Backup: Google Drive REST API integration & Local Storage SAF
 
 ---
-
+## Download
+<a href="[URL](https://drive.google.com/file/d/1PRSLetEOlJH1NxJBu5a5UNw1NGVnymbz/view?usp=drive_link)"> Click here to Download </a>
+___
 ## Support the Project
 
 If you find Spence helpful and want to support its ongoing development:
