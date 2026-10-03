@@ -1,4 +1,5 @@
-<div align="center"><img width="200" height="200" alt="ChatGPT Image Oct 3, 2026, 12_03_28 PM" src="https://github.com/user-attachments/assets/be440c70-4e8d-4446-90b1-dbf175457419" />
+<div align="center"><img width="250" height="250" alt="Spence Logo" src="https://github.com/user-attachments/assets/3d3fc3f6-0800-4e2c-91fb-8815b846a912" />
+
 
   <h1> Spence </h1>
 
