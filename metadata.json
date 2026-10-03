@@ -1,0 +1,8 @@
+{
+  "name": "Spence",
+  "description": "Smart expense tracker with Bank, Cash in hand, Credit Card limits, Loans, and automatic EMI deductions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

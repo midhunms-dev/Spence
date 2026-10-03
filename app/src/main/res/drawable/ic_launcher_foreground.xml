@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Green card peaking out top-left -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M38,23 L56,23 C59,23 61.5,25.5 61.5,28.5 L61.5,39 L35,39 L35,26 C35,24.3 36.3,23 38,23 Z" />
+
+    <!-- Amber card peaking out top-right -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M48,27 L70,27 C73,27 75.5,29.5 75.5,32.5 L75.5,39 L45,39 L45,30 C45,28.3 46.3,27 48,27 Z" />
+
+    <!-- Dark Teal Wallet Main Body -->
+    <path
+        android:fillColor="#0F3D37"
+        android:pathData="M34,35 L74,35 C80,35 84.5,39.5 84.5,45.5 L84.5,71.5 C84.5,77.5 80,82 74,82 L34,82 C28,82 23.5,77.5 23.5,71.5 L23.5,45.5 C23.5,39.5 28,35 34,35 Z" />
+
+    <!-- Wallet Clasp on right edge -->
+    <path
+        android:fillColor="#134E48"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M73,50 L84,50 C87.3,50 90,52.7 90,56 C90,59.3 87.3,62 84,62 L73,62 Z" />
+
+    <!-- Clasp Button dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M83.5,56m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+    <!-- Left smiling curved eye -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M39,60 C39,54.5 46.5,54.5 46.5,60" />
+
+    <!-- Right smiling curved eye -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54.5,60 C54.5,54.5 62,54.5 62,60" />
+
+</vector>
