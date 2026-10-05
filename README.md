@@ -128,7 +128,7 @@ Spence is designed to take the chaos out of managing daily finances, bank accoun
 
 ---
 ## Download
-<a href="https://drive.google.com/file/d/1PRSLetEOlJH1NxJBu5a5UNw1NGVnymbz/view?usp=drive_link"> Click here to <b>DOWNLOAD</b></a>
+<a href="https://drive.google.com/file/d/1dAeqei2JYjpdCxk8NBVaFRgCiO12qw8X/view?usp=sharing"> Click here to <b>DOWNLOAD</b></a>
 ___
 ## Support the Project
 
